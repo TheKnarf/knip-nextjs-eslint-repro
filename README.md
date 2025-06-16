@@ -1,3 +1,9 @@
+## Linting
+
+Running `pnpm lint` triggers a `no-console` lint error to show that linting works.
+
+## Knip
+
 ```
 $ pnpm dlx knip
 Unused files (1)
